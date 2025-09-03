@@ -1,13 +1,13 @@
 # Hi 👋, I'm Gavin Johnson
 ## About Me
 
-- 🏦 I'm currently working for a state college in Nebraska teaching computer programming
+- 🏦 I'm currently a student a Wayne State College
 
-- 📚 I’m studing to complete my Python certifications
+- 📚 I’m studing CIS/Cyber Security/ Networking
 
-- 🤔 I use daily .java, .cpp, .py, .sql
+- 🤔 Currently learning HTML/CSS and C++
 
-- 👨🏻‍💻 Love programming and resolving problems
+- 👨🏻‍💻 Love figureing out problems
 
 - 🧠 I like to learn something new
 
@@ -16,6 +16,6 @@
 
 
 
-I have held numerous IT positions including software analyst and project management for world market leaders. I have a wide range of technology experience ranging from microcomputer support to programming in numerous languages utilizing a variety of databases and hardware platforms.
-
 ### Education
+
+Graduated WP-B HS 2025

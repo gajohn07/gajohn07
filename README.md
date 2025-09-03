@@ -3,11 +3,11 @@
 
 - 🏦 I'm currently a student a Wayne State College
 
-- 📚 I’m studing CIS/Cyber Security/ Networking
+- 📚 I’m studying CIS/Cybersecurity/ Networking
 
 - 🤔 Currently learning HTML/CSS and C++
 
-- 👨🏻‍💻 Love figureing out problems
+- 👨🏻‍💻 Love solving problems
 
 - 🧠 I like to learn something new
 
